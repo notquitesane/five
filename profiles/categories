@@ -1,0 +1,3 @@
+cross-amd64-uclibc
+cross-x86_64-uclibc
+cross-x86_64-uclibc-linux
